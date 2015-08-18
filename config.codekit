@@ -535,6 +535,17 @@
 		"outputPathIsSetByUser": 0,
 		"processed": 0
 		},
+	"\/img\/imovie_ipad_gallery.jpg": {
+		"fileType": 16384,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"initialSize": 77503,
+		"inputAbbreviatedPath": "\/img\/imovie_ipad_gallery.jpg",
+		"outputAbbreviatedPath": "\/img\/imovie_ipad_gallery.jpg",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"processed": 0
+		},
 	"\/img\/portfolio\/1.jpg": {
 		"fileType": 16384,
 		"ignore": 0,
@@ -597,6 +608,17 @@
 		"initialSize": 53428,
 		"inputAbbreviatedPath": "\/img\/portfolio\/6.jpg",
 		"outputAbbreviatedPath": "\/img\/portfolio\/6.jpg",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"processed": 0
+		},
+	"\/img\/portfolio\/gallery_print_books.png": {
+		"fileType": 32768,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"initialSize": 546022,
+		"inputAbbreviatedPath": "\/img\/portfolio\/gallery_print_books.png",
+		"outputAbbreviatedPath": "\/img\/portfolio\/gallery_print_books.png",
 		"outputPathIsOutsideProject": 0,
 		"outputPathIsSetByUser": 0,
 		"processed": 0
