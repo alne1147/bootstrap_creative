@@ -535,6 +535,17 @@
 		"outputPathIsSetByUser": 0,
 		"processed": 0
 		},
+	"\/img\/imovie.jpg": {
+		"fileType": 16384,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"initialSize": 209156,
+		"inputAbbreviatedPath": "\/img\/imovie.jpg",
+		"outputAbbreviatedPath": "\/img\/imovie.jpg",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"processed": 0
+		},
 	"\/img\/imovie_ipad_gallery.jpg": {
 		"fileType": 16384,
 		"ignore": 0,
@@ -631,6 +642,17 @@
 		"outputAbbreviatedPath": "No Output Path",
 		"outputPathIsOutsideProject": 0,
 		"outputPathIsSetByUser": 0
+		},
+	"\/js\/animateGreensock.js": {
+		"fileType": 64,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"inputAbbreviatedPath": "\/js\/animateGreensock.js",
+		"outputAbbreviatedPath": "\/js\/min\/animateGreensock-min.js",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"outputStyle": 1,
+		"syntaxCheckerStyle": 1
 		},
 	"\/js\/bootstrap.js": {
 		"fileType": 64,
